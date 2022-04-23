@@ -1,0 +1,2 @@
+# exercises
+Small coding challanges
